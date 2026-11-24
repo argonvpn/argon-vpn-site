@@ -1,10 +1,10 @@
 {
-  "id": 10,
+  "id": 11,
   "text": {
-    "ru": "Narko",
-    "tk": "Narko",
-    "en": "Narko"
+    "ru": "Memo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memo",
+    "tk": "Memo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memo",
+    "en": "Memo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memo"
   },
-  "url": "https://t.me/VPNArgon",
+  "url": "",
   "notify": true
 }
