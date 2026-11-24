@@ -1,10 +1,10 @@
 {
-  "id": 3,
+  "id": 4,
   "text": {
-    "ru": "Taze wersiya obanawit edin",
-    "tk": "Taze wersiya obanawit edin",
-    "en": "Taze wersiya obanawit edin"
+    "ru": "Memo",
+    "tk": "Memo",
+    "en": "Memo"
   },
   "url": "https://t.me/VPNArgon",
-  "notify": true
+  "notify": false
 }
