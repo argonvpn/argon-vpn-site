@@ -1,9 +1,9 @@
 {
-  "id": 11,
+  "id": 12,
   "text": {
-    "ru": "Memo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memo",
-    "tk": "Memo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memo",
-    "en": "Memo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memoMemo memo"
+    "ru": "Test",
+    "tk": "Test",
+    "en": "Test"
   },
   "url": "",
   "notify": true
