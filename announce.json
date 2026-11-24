@@ -1,10 +1,10 @@
 {
-  "id": 6,
+  "id": 7,
   "text": {
-    "ru": "Taze serverler Gosuldy",
-    "tk": "Taze serverler Gosuldy",
-    "en": "Taze serverler Gosuldy"
+    "ru": "Memo",
+    "tk": "Memo",
+    "en": "Memo"
   },
   "url": "https://t.me/VPNArgon",
-  "notify": false
+  "notify": true
 }
