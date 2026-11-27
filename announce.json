@@ -1,10 +1,10 @@
 {
-  "id": 39,
+  "id": 40,
   "text": {
-    "ru": "Thg",
-    "tk": "Thg",
-    "en": "Thg"
+    "ru": "Hsh",
+    "tk": "Hsh",
+    "en": "Hsh"
   },
   "url": "",
-  "notify": false
+  "notify": true
 }
